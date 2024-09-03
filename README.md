@@ -20,5 +20,5 @@ The Hospital Management System is a Java Swing-based GUI application designed to
    ```
 4. Run the application.
    ```
-   java HospitalManagement
+   $ java HospitalManagement
    ```
